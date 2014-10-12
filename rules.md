@@ -31,6 +31,7 @@ Ops are listed in Op List. If you disobey them, you will be punished at operator
 * Posting more than 3 lines at a time is considered spamming and warrants immediate removal from the room.
 * Bashing people because of their beliefs is not permitted.
 * Do not use words that are not permitted on US broadcast TV (the F, C, and S words are prohibited)
+* NO RELIGION DISCUSSION! All religion debates cause is people getting pissed and egos brused. If you really want to, take it to -alt. But be warned, we won't bail you out if you get cornered. You dug your hole, you gotta climb out.
 * Keep discussion of WP's admin in channel to a minimum. It is allowed, but long conversations about op decisions take place where the decisions are made. There is no need to duplicate these long discussions in the main channel, to the exclusion of all other topics.
 
 ### Attacks
