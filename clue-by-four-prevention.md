@@ -14,5 +14,5 @@ We measure bans on BotX time. If it has not been exactly the amount of time list
 ## FOR THE LOVE OF HOLY TAP DANCING JESUS, DON'T ATTACK THE OPS
 This goes back to IRC isn't a democracy. You start attacking a op because something doesn't go your way, expect to be hit with a Clue-By-Four. You start harassing a op, and you keep going after they tell you to stop, expect a Clue-By-Four.
 
-### An a small request, if you wouldn't mind?
-Turn off your auto-rejoin. If you have a stuck key and it is spamming the channel, we will kick you. That is for the users sanity as much as ours. If you have your auto-rejoin on, then we have to ban you. We don't like to have to ban. It's much easier to type !kick johndoe then !b johndoe 30m test.
+### And a small request, if you wouldn't mind?
+Turn off your auto-rejoin. If you have a stuck key and it is spamming the channel, we will kick you. That is for the users sanity as much as ours. If you have your auto-rejoin on, then we have to ban you. We don't like to have to ban. It's much easier to type !kick johndoe then !b johndoe 30m go fix your keyboard.
