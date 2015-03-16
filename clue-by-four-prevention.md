@@ -1,6 +1,6 @@
 # Clue-By-Four Prevention, or, how not to get muted and/or banned.
 
-As of 1/24/15, BotX has logged a total of 130 combined mutes and bans since the start of the new year.
+As of 3/16/15, BotX has logged a total of 327 combined mutes and bans since the start of the new year.
 
 ## THIS IS COMPLETELY AND UTTERLY STUPID. THIS IS ALSO PREVENTABLE.
 The ops don't ask much. We just ask you follow the rules and do what we tell you.
