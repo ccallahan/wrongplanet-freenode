@@ -9,7 +9,7 @@ The channel has some differences in language then the forums. Here is a quick lo
 * IRC: Internet Relay Chat is the internet protocol that powers this chat.
 * Freenode: The IRC network providing the chatroom.
 * Ops: Ops is short for operators, a equivalent of moderators on the forums. You can see a list of them click Ops List on the sidebar.
-* -alt: #WrongPlanet-alt is the 16+ unmoderated chat room. You can get to it by typing /join #wrongplanet-alt in your text bar and pressing enter.
+* -alt: #WrongPlanet-alt is the 16+ unmoderated chat room. You can get to it by typing `/join #wrongplanet-alt` in your text bar and pressing enter.
 * Nick: Short for nickname, like you used on AOL (I know, I said a dirty word. :P)
 
 ## Nicknames
