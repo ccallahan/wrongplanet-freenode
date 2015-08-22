@@ -14,7 +14,7 @@ The channel has some differences in language then the forums. Here is a quick lo
 
 ## Nicknames
 
-The first thing you will want to do is change your nick. Think of something unique. Then type “/nick newname” but replace new name with your unique nick. If you get a message that says something about identifying, then you need to pick another nick. In some cases, your nickname will be changed back to something generic within 30 seconds.
+The first thing you will want to do is change your nick. Think of something unique. Then type `/nick newname` but replace new name with your unique nick. If you get a message that says something about identifying, then you need to pick another nick. In some cases, your nickname will be changed back to something generic within 30 seconds.
 
 ## The topic
 
@@ -22,7 +22,7 @@ The topic is like a bulletin. It give a list of important info to know.
 
 ## /me
 
-You might be seeing people typing text in the third person and thinking “I want to do that!” Well you can! Type /me followed by a action. e.g. /me jumps would look like “fubar jumps”.
+You might be seeing people typing text in the third person and thinking “I want to do that!” Well you can! Type /me followed by a action. e.g. `/me jumps` would look like `fubar jumps`.
 
 # Thanks!
 
